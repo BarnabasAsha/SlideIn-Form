@@ -214,7 +214,7 @@ button:focus {
     
     .container {
         margin: auto;
-        width: 80vw;
+        width: 85vw;
         height: 95vh;
         display: flex;
         flex-direction: column;
